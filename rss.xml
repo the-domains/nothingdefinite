@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NothingDefinite]]></title>
+        <description><![CDATA[NothingDefinite]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 10 Aug 2016 05:50:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Untold Story of Magic Leap, the World's Most Secretive Startup]]></title>
+            <description><![CDATA[<article><h1>The Untold Story of Magic Leap, the World's Most Secretive Startup</h1><p>T There is something special happening in a generic office park in an uninspiring suburb near Fort Lauderdale, Florida. Inside, amid the low gray cubicles, clustered desks, and empty swivel chairs, an impossible 8-inch robot drone from an alien planet hovers chest-high in front of a row of potted plants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c074a0d302be59dce473c720dd3426bf33ec9c32.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/04/magic-leap-vr/?utm_content=buffer05f4e&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">56c1152e-72f0-4ea3-9f40-64f31a6b3f20</guid>
+            <pubDate>Wed, 10 Aug 2016 05:50:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
